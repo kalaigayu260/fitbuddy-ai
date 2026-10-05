@@ -1,0 +1,8 @@
+venv/
+fitbuddy-env/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+fitbuddy.db
+.DS_Store
